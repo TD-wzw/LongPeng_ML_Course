@@ -1,2 +1,0 @@
-grep "Train net output #1: loss =" log.txt > trainloss.refine
-grep "Test net output #1: loss =" log.txt > testloss.refine
